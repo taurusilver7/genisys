@@ -22,3 +22,7 @@ Set up a scss directory with variables, mixins & index scss styling files & add 
 `@use './scss/' as *;`
 
 Set up the initial screen resoultion & variables in the scss variables & mixins before styling the main landing page.
+
+Create a header component & style the list of menu with scss `before::after` effects.
+
+Create a /pages directory to store different pages in the SPA game landing application.
