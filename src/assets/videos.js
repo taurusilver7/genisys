@@ -1,4 +1,4 @@
-import bgVideo from './videos/bg-video.mp4'
+import bgVideo from './video/bg-video.mp4'
 
 export {
     bgVideo

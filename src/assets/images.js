@@ -1,64 +1,64 @@
-import logo from './images/logo.png'
-import champAshe from './images/Champion_ashe_HP.png'
-import champAhri from './images/Champion_Ahri_HP.png'
-import champGaren from './images/Champion_garen_HP.png'
-import bg1 from './images/bg-1.jpg'
-import bg2 from './images/bg-2.jpg'
-import bg3 from './images/bg-3.jpg'
-import distortion from './images/distortion.png'
+import logo from "./img/logo.png";
+import champAshe from "./img/Champion_ashe_HP.png";
+import champAhri from "./img/Champion_Ahri_HP.png";
+import champGaren from "./img/Champion_garen_HP.png";
+import bg1 from "./img/bg-1.jpg";
+import bg2 from "./img/bg-2.jpg";
+import bg3 from "./img/bg-3.jpg";
+import distortion from "./img/distortion.png";
 
-import cardAshe from './images/ashe_card.png'
-import cardAhri from './images/ahri_card.png'
-import cardGaren from './images/garen_card.png'
-import cardFortune from './images/fortune_card.png'
-import cardLux from './images/lux_card.png'
-import cardAkali from './images/akali_card.png'
+import cardAshe from "./img/ashe_card.png";
+import cardAhri from "./img/ahri_card.png";
+import cardGaren from "./img/garen_card.png";
+import cardFortune from "./img/fortune_card.png";
+import cardLux from "./img/lux_card.png";
+import cardAkali from "./img/akali_card.png";
 
-import bgLux from './images/lux-bg.jpg'
-import bgGaren from './images/garen-bg.jpg'
-import bgAhri from './images/ahri-bg.jpg'
-import bgAshe from './images/ashe-bg.jpg'
-import bgFortune from './images/fortune-bg.jpg'
-import bgAkali from './images/akali-bg.jpg'
+import bgLux from "./img/lux-bg.jpg";
+import bgGaren from "./img/garen-bg.jpg";
+import bgAhri from "./img/ahri-bg.jpg";
+import bgAshe from "./img/ashe-bg.jpg";
+import bgFortune from "./img/fortune-bg.jpg";
+import bgAkali from "./img/akali-bg.jpg";
 
-import bgLargeAshe from './images/ashe-bg-large.jpg'
-import bgLargeAhri from './images/ahri-bg-large.jpg'
-import bgLargeFortune from './images/fortune-bg-large.jpg'
-import bgLargeLux from './images/lux-bg-large.jpg'
-import bgLargeGaren from './images/garen-bg-large.jpg'
-import bgLargeAkali from './images/akali-bg-large.jpg'
+import bgLargeAshe from "./img/ashe-bg-large.jpg";
+import bgLargeAhri from "./img/ahri-bg-large.jpg";
+import bgLargeFortune from "./img/fortune-bg-large.jpg";
+import bgLargeLux from "./img/lux-bg-large.jpg";
+import bgLargeGaren from "./img/garen-bg-large.jpg";
+import bgLargeAkali from "./img/akali-bg-large.jpg";
 
-import closeIcon from './images/two-sword.png'
+import closeIcon from "./img/two-sword.png";
 
-import trailerImg from './images/trailer-img.png'
+import trailerImg from "./img/trailer-img.png";
 
 export {
-    logo,
-    champAhri,
-    champAshe,
-    champGaren,
-    bg1,
-    bg2,
-    bg3,
-    distortion,
-    cardAshe,
-    cardAhri,
-    cardGaren,
-    cardLux,
-    cardFortune,
-    cardAkali,
-    bgLux,
-    bgGaren,
-    bgAshe,
-    bgFortune,
-    bgAhri,
-    bgAkali,
-    closeIcon,
-    bgLargeAshe,
-    bgLargeAhri,
-    bgLargeFortune,
-    bgLargeLux,
-    bgLargeGaren,
-    bgLargeAkali,
-    trailerImg
-}
+	logo,
+	champAhri,
+	champAshe,
+	champGaren,
+	bg1,
+	bg2,
+	bg3,
+	distortion,
+	cardAshe,
+	cardAhri,
+	cardGaren,
+	cardLux,
+	cardFortune,
+	cardAkali,
+	bgLux,
+	bgGaren,
+	bgAshe,
+	bgFortune,
+	bgAhri,
+	bgAkali,
+	closeIcon,
+	bgLargeAshe,
+	bgLargeAhri,
+	bgLargeFortune,
+	bgLargeLux,
+	bgLargeGaren,
+	bgLargeAkali,
+	trailerImg,
+};
