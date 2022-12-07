@@ -16,3 +16,9 @@ yarn dev
 
 -  Scaffold a starter template for the project from [vite](https://vitejs.dev/guide/)
 -  Refactor the starter template to suit the landing page initial state & import the necessary dependencies to it. Add SASS, swiper & hover-effect dependencies.
+
+Set up a scss directory with variables, mixins & index scss styling files & add /scss directory as root directory for styling in `App.scss`
+
+`@use './scss/' as *;`
+
+Set up the initial screen resoultion & variables in the scss variables & mixins before styling the main landing page.
